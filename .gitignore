@@ -1,0 +1,5 @@
+# Linhas vazias ou que comecem com # são ignoradas
+
+diretorio_ignoravel/
+arquivo_ignoravel.txt
+#*.css
