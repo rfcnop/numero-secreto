@@ -1,5 +1,6 @@
 # Linhas vazias ou que comecem com # são ignoradas
 
 diretorio_ignoravel/
+img/nao_eh_imagem.txt
 arquivo_ignoravel.txt
 #*.css

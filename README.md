@@ -1,2 +1,2 @@
-bom <b>dia</b>!
+bom <b>dia</b>!<br>
 boa **tarde**!
